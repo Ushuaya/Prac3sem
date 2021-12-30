@@ -1,0 +1,7 @@
+1.c
+2.c
+3.c
+queue
+queue.c
+tmp.txt
+/Users/ivan/Desktop/C 3 semestr/TMP/KR

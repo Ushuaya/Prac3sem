@@ -1,0 +1,7 @@
+all: main function 
+	gcc -o ready.o main.o function.o
+
+main: main.c
+	gcc -Wall -c main.c
+function: function.c
+	gcc -Wall -c function.c
